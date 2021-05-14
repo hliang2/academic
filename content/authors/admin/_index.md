@@ -73,4 +73,3 @@ highlight_name: false
 My name is Hao Liang(梁浩 in Chinese). I am a first-year Ph.D. student at Rice University, advised by professor Gauri Joshi and affiliated with Optimization, Probability, and Learning (OPAL) group, Parallel Data Lab.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
