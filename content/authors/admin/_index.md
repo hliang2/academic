@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Electrical and Computer Engineering
     institution: Rice University
-    year: 2021 -
+    year: 2021 - 2026(Expected)
   - course: MS in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     year: 2019 - 2020
@@ -59,12 +59,12 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "hl106@rice.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
