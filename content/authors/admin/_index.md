@@ -31,7 +31,7 @@ education:
   - course: MS in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     year: 2019 - 2020
-  - course: Beng in Electrical Engineering
+  - course: Bachelor in Electrical Engineering
     institution: University of Electronic Science and Technology of China
     year: 2014 - 2018
 
@@ -70,6 +70,6 @@ email: "hl106@rice.edu"
 highlight_name: false
 ---
 
-My name is Hao Liang(梁浩 in Chinese). I am a first-year Ph.D. student at Rice University, advised by professor Gauri Joshi and affiliated with Optimization, Probability, and Learning (OPAL) group, Parallel Data Lab.
+My name is Hao Liang(梁浩 in Chinese). I am a first-year Ph.D. student at Rice University, advised by Professor Guha Balakrishnan. My research is in two broad areas: Speech & Image processing and distributed optimization. 
 
 
