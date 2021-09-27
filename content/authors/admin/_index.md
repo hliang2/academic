@@ -12,7 +12,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9mdAaEEAAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=RxL_kQ4AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/hliang2
